@@ -10,7 +10,7 @@
 
 
 ## 📫 How to Reach Me
-- LinkedIn: [Combatd](https://www.linkedin.com/in/combatd/)
+- LinkedIn: [Mark Calvelo](https://www.linkedin.com/in/mark-calvelo/)
 
 ## ⚡ Fun Facts
 - I typically follow a solid coding routine. Expect a lot of commits an repositories if you follow me!
