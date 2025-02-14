@@ -13,5 +13,5 @@
 - LinkedIn: [Mark Calvelo](https://www.linkedin.com/in/mark-calvelo/)
 
 ## ⚡ Fun Facts
-- I typically follow a solid coding routine. Expect a lot of commits an repositories if you follow me!
+- I typically follow a solid coding routine. Expect a lot of commits and repositories if you follow me!
 - In my free time, I enjoy playing video games, travel, and boxing.
