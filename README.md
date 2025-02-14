@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Combatd 👋
 
-<!--
-**Combatd/Combatd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌱 Learning & Growth
+- Continuously learning and expanding my knowledge in various areas of software development.
+- Currently focusing on:
+  - Algorithms and data structures.
+  - Full Stack JavaScript with Express and NodeJS
+  - Full Stack Python with Flask.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to Reach Me
+- LinkedIn: [Combatd](https://www.linkedin.com/in/combatd/)
+
+## ⚡ Fun Facts
+- I typically follow a solid coding routine. Expect a lot of commits an repositories if you follow me!
+- In my free time, I enjoy playing video games, travel, and boxing.
