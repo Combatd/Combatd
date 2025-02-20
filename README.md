@@ -4,9 +4,9 @@
 ## 🌱 Learning & Growth
 - Continuously learning and expanding my knowledge in various areas of software development.
 - Currently focusing on:
-  - Algorithms and data structures.
-  - Full Stack JavaScript with Express and NodeJS
-  - Full Stack Python with Flask.
+  - HTML5, CSS3, and JavaScript DOM Manipulation.
+  - Object-Oriented JavaScript, NodeJS and Express.js, and React Hooks and Context API.
+  - Data Structures and Algorithms, Python with Flask, and SQLAlchemy.
 
 
 ## 📫 Additional Links
