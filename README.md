@@ -4,9 +4,9 @@
 ## 🌱 Learning & Growth
 - Continuously learning and expanding my knowledge in various areas of software development.
 - Currently focusing on:
-  - HTML5, CSS3, and JavaScript DOM Manipulation.
-  - Object-Oriented JavaScript, NodeJS and Express.js, and React Hooks and Context API.
-  - Data Structures and Algorithms, Python with Flask, and SQLAlchemy.
+  - Object-Oriented Programmin with C#
+  - Unity 3D Engine Programming.
+  - Unity 3D Gameplay Programming and Level Design.
 
 
 ## 📫 Additional Links
