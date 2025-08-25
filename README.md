@@ -4,8 +4,8 @@
 ## 🌱 Learning & Growth
 - Continuously learning and expanding my knowledge in various areas of software development.
 - Currently focusing on:
-  - Object-Oriented Programmin with C#
-  - Unity 3D Engine Programming.
+  - Web Development in JavaScript
+  - Unity 3D Engine Programming using C#
   - Unity 3D Gameplay Programming and Level Design.
 
 
