@@ -2,7 +2,7 @@
 
 
 ## 🌱 Learning & Growth
-- Continuously learning and expanding my knowledge in various areas of software development.
+- Continuously learning and expanding my knowledge in various areas of software development and data science.
 - Currently focusing on:
   - Object Oriented Programming in C++
   - Object Oriented Programming in Python
